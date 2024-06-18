@@ -5,7 +5,7 @@
 ## Overview
 This is the Pytorch code for the paper Block Selective Reprogramming for On-device Training of Vision Transformers. This paper presents block selective reprogramming (BSR) in which we fine-tune only a fraction of total blocks of a pre-trained model and selectively drop tokens based on self-attention scores of the frozen layers. To show the efficacy of BSR, we present extensive evaluations on ViT-B and DeiT-S with five different datasets. Compared to the existing alternatives, our approach simultaneously reduces training memory by up to 1.4x and compute cost by up to 2x while maintaining similar accuracy. We also showcase results for Mixture-of-Expert (MoE) models, demonstrating the effectiveness of our approach in multitask learning scenarios.
 <p align="center"> 
-    <img src="system_diagram.svg">
+    <img src="system_block_diagram.png">
 </p> 
 
 

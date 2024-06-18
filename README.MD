@@ -13,7 +13,7 @@ This is the Pytorch code for the paper Block Selective Reprogramming for On-devi
 
 - [Sreetama Sarkar](https://www.linkedin.com/in/sreetama-sarkar-332a13104/) (USC)
 - [Souvik Kundu](https://www.linkedin.com/in/souvik-kundu-ph-d-64922b50/) (Intel)
-- [Kai Zheng]() (USC)
+- Kai Zheng (USC)
 - [Peter A. Beerel](https://sites.usc.edu/eessc/) (USC)
   
 ## Paper
